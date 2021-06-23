@@ -1,0 +1,36 @@
+{
+  "name": "frontendmasters-gatsby",
+  "private": true,
+  "description": "Bare-bones starter for the Gatsby Frontend Masters workshop.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "gatsby": "^3.8.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "tailwindcss-aspect-ratio": "^3.0.0",
+    "tailwindcss-hero-patterns": "0.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "babel-eslint": "^10.1.0",
+    "cross-env": "^7.0.3",
+    "gatsby-plugin-postcss": "^4.8.0",
+    "graphql": "^15.5.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "typescript": "^4.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlengstorf/frontendmasters-gatsby"
+  }
+}
