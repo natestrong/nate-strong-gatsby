@@ -12,6 +12,7 @@ In this course, learn to build blazing fast apps and websites with React using G
 
 ## What You’ll Learn
 
+
 - Learn how to leverage free, open source tools including Gatsby, React, and
   GraphQL to build high-performance websites.
 - Deliver an excellent experience to your users by providing only critical
